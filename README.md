@@ -190,12 +190,14 @@ Learn about UX
 - Usado em reuniões _rapidas_
 > Lukete é um **QUEM?** que precisa **O QUE** **DO QUE** e quer que a experiencia seja **COMO?** porque ele valoriza **POR QUE?**
 
+
 ![PHOTO PERSONA RESUMIDA](https://s3.amazonaws.com/caelum-online-public/ux/ux-strategy/template-personinha.jpg)
 
 - Exemplo
 > Lukete é um **DEV** que precisa arrumar um **FUTEBOL** e quer que a experiencia seja **RÁPIDA** porque ele valoriza **jogar futebol todos os dias**
 
-![PHOTO PERSONA RESUMIDA PREENCHIDA](https://s3.amazonaws.com/caelum-online-public/ux/ux-strategy/exemplo-personinha.png)
+
+[PHOTO PERSONA RESUMIDA PREENCHIDA](https://s3.amazonaws.com/caelum-online-public/ux/ux-strategy/exemplo-personinha.png)
 
 
 ## OBSERVAÇÃO
