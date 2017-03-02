@@ -221,6 +221,7 @@ Learn about UX
   - Perguntas abertas
     - **Cuidado** perguntas sim e não.
   - Explicar o objetivo
+  
 ##### Pesquisa
   - A pesquisa não estruturada consiste em ser uma conversa sobre um assunto específico, sendo feitas perguntas mais abertas e mais aprofundadas.
 Interessante para obter as primeiras impressões e novos insights. Seu problema é que por ser uma coisa mais “solta”, torna-se mais difícil das respostas serem tabuladas e analisadas.
