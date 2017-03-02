@@ -141,6 +141,14 @@ Learn about UX
 - https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjLseS4uLTSAhXFDpAKHdwIBu4QFggcMAA&url=https%3A%2F%2Fwww.doblin.com%2Fteam-members%2Flarry-keeley&usg=AFQjCNF-kLRX6d3RtDhkBPYGxKHe94GxMg&sig2=7FvXr0FgqWUdsVnOOy_HOQ
 - http://www.dubberly.com/articles/alan-cooper-and-the-goal-directed-design-process.html
 - http://blog.caelum.com.br/entendendo-usuario-proto-persona
+- http://www.leansurvey.com.br/
+- https://www.nngroup.com/articles/which-ux-research-methods
+- https://xtensio.com/home-f-light/?utm_expid=127318054-9.eZYDrb_DSG-1db_VnYP7Qg.2
+- http://www.uxmatters.com/mt/archives/2013/01/are-personas-still-relevant-to-ux-strategy.php
+- http://www.buscape.com.br/value-proposition-design-alex-osterwalder-8567389259
+- https://cursos.alura.com.br/course/business-model-canvas
+- https://cursos.alura.com.br/course/avance-na-construcao-de-negocios
+
 
 ## DEFINIÇÃO
 - O que vai ter no app ?
@@ -164,7 +172,7 @@ Learn about UX
 ![360 view](http://i.imgur.com/cNRWKOm.png)
 
 ## USUÁRIO
-### PHOTO PERSONA
+### PROTO PERSONA
 - Hipoetese do usuário
   - **Nome**
     - Lukete(alegre, positivo, jogador).
@@ -186,18 +194,91 @@ Learn about UX
 ![Photo persona](https://s3.amazonaws.com/caelum-online-public/ux/ux-strategy/proto-persona.jpg)
 
 
-### PHOTO PERSONA RESUMIDA
+### PROTO PERSONA RESUMIDA
 - Usado em reuniões _rapidas_
 > Lukete é um **QUEM?** que precisa **O QUE** **DO QUE** e quer que a experiencia seja **COMO?** porque ele valoriza **POR QUE?**
 
 - Exemplo
 > Lukete é um **DEV** que precisa arrumar um **FUTEBOL** e quer que a experiencia seja **RÁPIDA** porque ele valoriza **jogar futebol todos os dias**
 
-![PHOTO PERSONA RESUMIDA](https://s3.amazonaws.com/caelum-online-public/ux/ux-strategy/template-personinha.jpg)
-![PHOTO PERSONA RESUMIDA PREENCHIDA](https://s3.amazonaws.com/caelum-online-public/ux/ux-strategy/exemplo-personinha.png)
+![PROTO PERSONA RESUMIDA](https://s3.amazonaws.com/caelum-online-public/ux/ux-strategy/template-personinha.jpg)
+![PROTO PERSONA RESUMIDA PREENCHIDA](https://s3.amazonaws.com/caelum-online-public/ux/ux-strategy/exemplo-personinha.png)
 
+### PESQUISA
+- Verificar se os photo personas são realmente oque os envolvidos com o negocio acham.
+- Ver **realmente** quem é o **usuário**
+- Encontrar padroes
+
+
+#### MÉTODOS
+- Observação, observar seus usuários e concorrentes.
+- Questionário ( grande numeros de dados)
+- Card Sorting ( categorização)
+- Teste A/B
+- Pesquisa (conversar com o usuário)
+  - Corte ( definir oque é necessário para o seu usuário, seu publico)
+  - Empatia ( se colocar no lugar do usuário )
+  - Perguntas abertas
+    - **Cuidado** perguntas sim e não.
+  - Explicar o objetivo
+##### Pesquisa
+  - A pesquisa não estruturada consiste em ser uma conversa sobre um assunto específico, sendo feitas perguntas mais abertas e mais aprofundadas.
+Interessante para obter as primeiras impressões e novos insights. Seu problema é que por ser uma coisa mais “solta”, torna-se mais difícil das respostas serem tabuladas e analisadas.
+  - Pesquisa estruturada consiste em perguntas mais curtas, claras e fechadas, visando obter respostas precisas. Interessante para obter dados rapidamente, feedback e validar informações. Seu problema é que justamente por ser muito fechada, fica praticamente impossível a coleta de novos insights.
+  - **Small talk** | Conversa para quebrar o gelo, "e ae cara viu o jogo do barça"
+  - Evite perguntas lógicas, use emoção.
+  - Anote TUDO
+  - Se o entrevistado está com boa vontade ABUSE DAS PERGUNTAS( Porque, como, onde como?)
+  - Deixa o usuário falar.
+  - Fique de olho na expressão corporal do entrevistado.
+  - **MINIMO** 1
+
+### PERSONA
+- Mais realmente
+- Baseado nos padroes dos metodos de pesquisa
+- É um entregável de UX
+- Colocar nome, foto, informações demográficas, personalidade, narrativa/biografia, interesses, objetivos
+- Não colocar nome de famosos, amigos, parentes
+- Evite nomes simples, João da Silva
+- **Revise** suas personas depois de algum tempo
+- Colocar narrativa em primeira pessoa
+
+#### PERSONA PRIMÁRIA
+- Publica **alvo**, tem que atingir esse publico.
+
+#### PERSONA SECUNDÁRIA
+- Não é o foco do app, porém ele serve para essa persona.
+
+#### PERSONA NEGATIVA
+- Publica alvo totalmente diferentes
+
+#### SERVED PERSONA
+- Fornecedor é um, em um app de viagens o dono do hotel é um.
+
+
+### MAPA DE EMPATIA
+- Aumenta a empatia do time com a **persona**
+- Entrar no **modelo mental** para poder preencher o quadro. **pensar** como o **usuário** pensa sobre como funciona o mundo.
+![Mapa de empatia](http://ramonkayo.com/wp-content/uploads/2013/12/o-que-e-mapa-de-empatia-e-para-que-serve-01.png)
+- A parte de **dores** é uma das partes mais importantes do Mapa, pois é nele que podemos refletir quais os desafios e preocupações que a persona pode ter em seu dia-a-dia.
+Quando entendemos essas dores, fica muito mais fácil de se pensar em uma solução para eliminá-las ou ao menos amenizá-las.
+
+
+### CANVAS PROPOSTA DE VALOR
+- Deixar bem claro o valor do produto/serviço
+- Responde duas perguntas
+  - o que ?
+  - porque ?
+- Encontar soluções para resolver pu amenizar as dores do usu;ario
+- Produtos e/ou serviços para as atividadades do usuário
+![CANVAS PROPOSTA DE VALOR](https://s-media-cache-ak0.pinimg.com/originals/0b/fc/c2/0bfcc20b7a04f22a40485aeaa09a3bc1.png)
 
 ## OBSERVAÇÃO
 - De onde ir, caminho a ser guiado.
 - Muito banner para viabilidade do app é ruim para o usuário
 - Recurso **!=** pessoas
+- **Simpatia** != **Empatia** https://www.youtube.com/watch?v=1Evwgu369Jw
+  - **Simpatia** é quando retorna algo e fica na sua. (Pelo menos)
+  - **Empatia** é se colocar no lugar da pessoa
+- Empresa de entrevista é caro ;(
+- PERSONAS em **alguns** projetos, quando o usuário está **LONGE** de você.
