@@ -221,7 +221,7 @@ Learn about UX
   - Perguntas abertas
     - **Cuidado** perguntas sim e não.
   - Explicar o objetivo
-  
+
 ##### Pesquisa
   - A pesquisa não estruturada consiste em ser uma conversa sobre um assunto específico, sendo feitas perguntas mais abertas e mais aprofundadas.
 Interessante para obter as primeiras impressões e novos insights. Seu problema é que por ser uma coisa mais “solta”, torna-se mais difícil das respostas serem tabuladas e analisadas.
@@ -273,6 +273,14 @@ Quando entendemos essas dores, fica muito mais fácil de se pensar em uma soluç
 - Encontar soluções para resolver pu amenizar as dores do usu;ario
 - Produtos e/ou serviços para as atividadades do usuário
 ![CANVAS PROPOSTA DE VALOR](https://s-media-cache-ak0.pinimg.com/originals/0b/fc/c2/0bfcc20b7a04f22a40485aeaa09a3bc1.png)
+
+### CENÁRIOS
+- Nativa rápida e direta, para mostrar com o **persona** ve nosso app.
+- Pega algum **objetivo** da **persona** e faz um cenário de como ele faria.
+- Não importa layout do ap e sim como ele vai **interagir**
+
+### HISTÓRIAS
+
 
 ## OBSERVAÇÃO
 - De onde ir, caminho a ser guiado.
